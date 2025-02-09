@@ -67,6 +67,3 @@ This project is open-source and available under the **MIT License**.
 ## ⭐ Contributing
 If you'd like to contribute, feel free to fork the repository and submit a pull request!
 
----
-Made with ❤️ by [Your Name]
-
